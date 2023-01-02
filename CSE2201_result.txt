@@ -1,0 +1,8 @@
+Student ID: CSE2201	Name: ANIRBAN DAS	Class Roll Number: 01	Batch name: CSE 2022-26
+COURSE ID	COURSE NAME			GRADES
+
+C001		Python Programming			A
+C002		Physics			A
+
+PERCENTAGE: 96.0%
+PASS STATUS: PASSED
